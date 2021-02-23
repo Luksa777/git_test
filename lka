@@ -1,0 +1,6 @@
+trash 1 trash 2
+
+*.class
+css/
+.classpath
+
