@@ -1,6 +1,6 @@
 # git-demo-project
 This is the demo project for the Git 101 series by Mr Frontend
-
+XXXXXXXXXXXX
 Git 101, the practical guide! - STEP 1
 
 - Install Git
